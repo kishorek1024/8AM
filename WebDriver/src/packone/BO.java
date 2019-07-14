@@ -20,8 +20,7 @@ public class BO {
 		driver.findElement(By.id("month")).sendKeys("Apr");
 		
 		driver.findElement(By.id("u_0_9")).click();
-		driver.findElement(By.id("email")).clear();
-		
+		//hgukhjlkjsdl;fks;ldsjd	
 
 	}
 
